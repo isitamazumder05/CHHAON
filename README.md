@@ -115,3 +115,16 @@ Antigravity and ChatGPT were used as AI-assisted development tools during this p
 - [Nominatim usage policy](https://operations.osmfoundation.org/policies/nominatim/)
 - [AWS Amplify Hosting documentation](https://docs.aws.amazon.com/amplify/latest/userguide/welcome.html)
 - [AWS Serverless Application Model documentation](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html)
+
+- ---
+
+## 📸 Application Screenshots
+
+### Dashboard
+![CHHAON Dashboard](docs/screenshots/dashboard.png)
+
+### Heat-Risk Assessment
+![Heat-Risk Assessment](docs/screenshots/assessment.png)
+
+### Safety Action Plan
+![Safety Action Plan](docs/screenshots/safety_plan.png)
